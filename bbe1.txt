@@ -1,7 +1,11 @@
 The rabbit and the hamster.
 There was a rabbit.
 There was a hamster.
-The rabbit is called Bela.
-The hamster is called Jozsi.
+The rabbit was called Bela.
+The hamster was called Jozsi.
 They travelled together.
+There was a field.
+It was green and yellow.
+The ate grass.
+
 
