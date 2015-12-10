@@ -1,0 +1,4 @@
+These files contains text that mostly uses Basic English(https://simple.wikipedia.org/wiki/Wikipedia:Basic_English_ordered_wordlist)
+The first tale (bbe1) contains words for 7 years old. Samu finds 14 tripplets in it.
+The second tale (bbe2) contains words for 11 years old. Samu finds 14 tripplets.
+The third file contains a reciept of dounats in a simple language. Samu finds 21 tripplets in it. 
