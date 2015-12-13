@@ -1,5 +1,5 @@
 # Samu
-Learning sources for a university project for teaching “Samu” (https://github.com/nbatfai/samu).
+Learning sources for a university project “Samu” (https://github.com/nbatfai/samu).
 
 Copyright (c)  2015  Balázs Veress.
    Permission is granted to copy, distribute and/or modify this document
